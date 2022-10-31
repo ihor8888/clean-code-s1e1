@@ -21,8 +21,11 @@ body {
 }
 
 @media (max-width:768px) {
-.e-matrix {text-align: center;
-}
+
+  .e-matrix {
+    text-align: center;
+  }
+
 }
 
 .list {
@@ -67,6 +70,7 @@ button {
 button:hover {
   color: #3a3a3a;
 }
+
 /* Heading */
 h3,
 label[for="new-task"] {
